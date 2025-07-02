@@ -1,6 +1,6 @@
 # smartphone-price-segmentation-pipeline
 ## Dataset Description  
-We use the *Mobile Price Classification* dataset from Kaggle (Abhishek, 2018). It contains *2,000* smartphone records with *20* technical features—battery power, RAM, internal memory, screen size, camera pixels, processor cores, connectivity options (3G/4G/WiFi/Bluetooth), and more. Each phone is labeled with a price tier from *0 (budget)* to *3 (premium)*.
+We use the *Mobile Price Classification* dataset from Kaggle (Abhishek, 2018). It contains *2,000* smartphone records with *20* technical features-battery power, RAM, internal memory, screen size, camera pixels, processor cores, connectivity options (3G/4G/WiFi/Bluetooth), and more. Each phone is labeled with a price tier from *0 (budget)* to *3 (premium)*.
 
 ## Analysis Overview  
 1. *Exploratory Data Analysis (EDA)*  
